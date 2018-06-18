@@ -3,7 +3,7 @@
   
     
     <entry>
-      <title><![CDATA[My name is Wu Yanzu]]></title>
+      <title><![CDATA[HELLO HEXO]]></title>
       <url>/2018/06/18/hello-hexo/</url>
       <content type="html"><![CDATA[<p>Hexo+Github+域名绑定+Material Theme 快速搭建个人博客.<br>整个搭建过程还是算比较简单的，按照官方文档一步一步来，绑定域名时遇到了一些小坑以下为大概步骤记录:</p>
 <h2 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h2><ul>
